@@ -4,7 +4,7 @@ import mockTasks from './data/mock.js'
 import Task from './models/Task.js'
 import { DATABASE_URL } from "./env.js"
 import * as dotenv from 'dotenv';
-dotenv.config();
+require('dotenv').config();
 
 mongoose.connect(process.env.DATABASE_URL)
 
