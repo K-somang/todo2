@@ -1,2 +1,2 @@
-DATABASE_URL="mongodb+srv://<username>:<password>@todo-api.l0aepsl.mongodb.net/todo-api?retryWrites=true&w=majority"
+DATABASE_URL="mongodb+srv://yu18100356:Sm%23%2303561810@cluster0.crlajcf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 PORT=3000
